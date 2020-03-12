@@ -7,7 +7,7 @@
 name: app
 
 # The runtime the application uses.
-type: dotnet:2.2
+type: dotnet:3.1
 
 # The relationships of the application with services or other applications.
 # See .platform/services.yaml for the service definitions.
